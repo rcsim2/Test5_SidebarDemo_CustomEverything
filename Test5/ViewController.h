@@ -47,7 +47,7 @@
 // Xcode sucks.
 // BUG in IB: After such a change IB reverts the Row Height to the standard 22. Cmd-Z does not get
 // the original settings back. IB does that with many such changes. IB sucks.
-// Also note, but we have come used to that now, that any change in a text field in IB does not
+// Also note, but we have got used to that now, that any change in a text field in IB does not
 // actually save that change. You first have to go to another text field to make it stick.
 // Or press Enter.
 
