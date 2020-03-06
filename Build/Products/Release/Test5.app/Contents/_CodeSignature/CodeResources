@@ -6,19 +6,23 @@
 	<dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		GWCyhFIpd4R+MgFMssYsvAkXI8o=
+		dWDQMsj4kjHp4egZlK8I1uV8Rf8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		GT934gPw+/9KSLMH09KKUuUxwtw=
+		KtaXNIxWmjRfiX4akVKqhYnO/O0=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		b3Zw+RzQH86ChXnDMlz15zihtgc=
+		/dlXABHuEGXsiYnXSQQWmG8IYmM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		tTvKIeELZZ9AB98AP6GKgni9gwk=
+		OjCTUq2W44pgKFRpUAsENgp6zz8=
+		</data>
+		<key>Resources/README.md</key>
+		<data>
+		wm/E37z/p4TEb8kUuRAVRv/Z0Ko=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,28 +31,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			spKNb2Sh37I20QYwZbYgU4eE4mPidC6/dPapm3um+ag=
+			puujslxGmDeI24rc3FQMf3QIN7xgfIHlA9nzKssCcDA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5JInk6THz5sWhWMcvSMs6Ezy2BBzFiqmMCpMepbKV0Q=
+			pYeUcSKRuPZa22J5kln1A7uhztuplYLErhB/0RFxiE8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TEmjpeeoDUJJdqpnpWAWOeFOP4brUNU6NaL15yf6MfE=
+			NspqhkKdkiPRXIsPF8NsMAxJD52P8yT0TeTxXE1InyE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X+bHaFEyGpOgbMbTaix8VT00wFIKB8z5GasidQrzq1o=
+			hN8ra5kJThfCGz26nPoSW0N1CwKsBLUzCny++CxKWAk=
+			</data>
+		</dict>
+		<key>Resources/README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LlvQvIOnZUAr4/FmclJiCElzb7Uh2dPMu+JnXj368f0=
 			</data>
 		</dict>
 	</dict>
