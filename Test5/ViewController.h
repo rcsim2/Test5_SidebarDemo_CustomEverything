@@ -40,6 +40,7 @@
 // our project folder and keep the output relatively small.
 // Note that the Release output also creates a .dSYM file with debug symbols. The Debug output has
 // that file in /Users/rg/Library/Developer/Xcode/DerivedData
+// NONO: let's not do that as it makes a mess of GitHub diff
 
 // SUCK: In IB we tried to change the Highlight property of the Sidebar Outline View just to test.
 // This totally fucks up the item height and reverts it to normal small bars. Even Cmd-Z to
